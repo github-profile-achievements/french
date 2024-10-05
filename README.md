@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 #  Liste complète de tous les badges et réalisations du profil GitHub 
 
 #### L'affichage des réalisations sur votre profil est totalement facultatif ; par défaut, elles sont visibles par toute personne consultant votre profil public..
